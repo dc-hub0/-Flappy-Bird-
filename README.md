@@ -1,5 +1,5 @@
 # Build a Flappy Bird Game with JavaScript
 
-# [Tutorial](https://youtu.be/jr-XVRX163I)
+# Flappy Bird Jump Score and bruh
 
 ![Screenshot of App](https://i.ibb.co/6g0PxYY/Group-36.png)
