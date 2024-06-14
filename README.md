@@ -1,4 +1,4 @@
-# Build a Flappy Bird Game with JavaScript
+# Flappy Bird Game with JavaScript
 
 # Flappy Bird Jump Score and bruh
 
